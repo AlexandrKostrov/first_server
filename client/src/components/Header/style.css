@@ -1,0 +1,19 @@
+header {
+    padding-top: 5px;
+    background: #00BCD4;
+    position: relative;
+}
+
+header button {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Ranga', cursive;
+    color: #ffffff;
+    border-bottom: 6px solid #0495a8;
+    display: block;
+}
+
+header .open_nav {
+    position: absolute;
+    left:0px;
+}
